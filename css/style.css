@@ -19,7 +19,7 @@ header {
 	top: 0px;
 	width: 100%;
 	z-index: 120;
-	
+
 }
 h3 {
 	display: inline-block;
@@ -56,7 +56,7 @@ h2 {
 }
 .kak {
 	border-radius: 5px 5px 0px 0px;
-	
+
 }
 .card {
 	background-color: #FFF;
@@ -213,8 +213,18 @@ li {
 	vertical-align: top;
 	margin-left: 230px;
 }
-.citi {
-	margin-left: 278px;
-	margin-top: 203px;
+.textu {
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
 }
-
+.wrapper {
+	position: relative;
+}
